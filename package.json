@@ -1,0 +1,11 @@
+{
+  "name": "the-gay-agenda",
+  "version": "1.0.0",
+  "description": "website for The Gay Agenda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mel Fuechec",
+  "license": "ISC"
+}

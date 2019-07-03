@@ -54,9 +54,7 @@ h2 {
   
 }
 #background {
-  //background-color: black;
-  background-image: url(../../public/assets/images/party-fun.jpg);
-  //background-image: url('../../public/assets/images/GayAgenda_v3-01.jpg');
+  background-image: url(images/party-fun.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }

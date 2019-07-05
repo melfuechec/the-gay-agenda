@@ -28,8 +28,6 @@ h1 {
   font-family: Rubik Mono One, sans-serif;
   font-size: 9vw;
   color: #13818d;
-  // color: rgb(202, 188, 188);
-  //text-shadow: -2px -2px 3px rgb(202, 199, 199)
 }
 body {
   color: white; 
@@ -56,9 +54,16 @@ h2 {
 }
 #background {
   background-image: url(images/IMG_3211.JPG);
-  background-size: cover;
-  background-repeat: no-repeat;
-}
+  
+    /* Set a specific height */
+    height: auto; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
 a { color: #13818d }
 
 #logo {
